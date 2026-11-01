@@ -1,0 +1,331 @@
+Sector,Year,Feature,SHAP_normalized_importance_pct
+Crude Oil,2021,Domestic_Production_Qty,0.1593087374188053
+Crude Oil,2021,Export_Qty,1.3035258290375742
+Crude Oil,2021,Export_Value_USD,0.1390717142847239
+Crude Oil,2021,Domestic_Consumption_Qty,56.40639224113411
+Crude Oil,2021,Opening_Stock_Qty,1.619785675810139
+Crude Oil,2021,Closing_Stock_Qty,1.078103698268262
+Crude Oil,2021,Stock_Change_Qty,13.745580126356682
+Crude Oil,2021,Domestic_Wholesale_Price,1.6748788841292268
+Crude Oil,2021,Global_Benchmark_Price_USD,2.823113992329079
+Crude Oil,2021,Exchange_Rate_USD_INR,10.308648181987103
+Crude Oil,2021,Sector_Investment_Capex,10.741590919187457
+Crude Oil,2022,Domestic_Production_Qty,0.2273815722495175
+Crude Oil,2022,Export_Qty,1.788162366878385
+Crude Oil,2022,Export_Value_USD,0.20995152306512754
+Crude Oil,2022,Domestic_Consumption_Qty,58.09709425330772
+Crude Oil,2022,Opening_Stock_Qty,1.4155486930218064
+Crude Oil,2022,Closing_Stock_Qty,0.7470933076387974
+Crude Oil,2022,Stock_Change_Qty,16.71302638980075
+Crude Oil,2022,Domestic_Wholesale_Price,2.80498055409608
+Crude Oil,2022,Global_Benchmark_Price_USD,4.75679204318002
+Crude Oil,2022,Exchange_Rate_USD_INR,7.1104931230029
+Crude Oil,2022,Sector_Investment_Capex,6.129476173680258
+Crude Oil,2023,Domestic_Production_Qty,0.2916982489987241
+Crude Oil,2023,Export_Qty,1.4787266920364943
+Crude Oil,2023,Export_Value_USD,0.12687628714163834
+Crude Oil,2023,Domestic_Consumption_Qty,58.20863322631966
+Crude Oil,2023,Opening_Stock_Qty,1.2992161859127118
+Crude Oil,2023,Closing_Stock_Qty,0.8435662688880623
+Crude Oil,2023,Stock_Change_Qty,16.808014675957356
+Crude Oil,2023,Domestic_Wholesale_Price,1.2608597176157463
+Crude Oil,2023,Global_Benchmark_Price_USD,2.1234716302907026
+Crude Oil,2023,Exchange_Rate_USD_INR,9.249810077151492
+Crude Oil,2023,Sector_Investment_Capex,8.309126989594105
+Crude Oil,2024,Domestic_Production_Qty,0.17377884060333917
+Crude Oil,2024,Export_Qty,1.4035326757001518
+Crude Oil,2024,Export_Value_USD,0.10476406079965313
+Crude Oil,2024,Domestic_Consumption_Qty,65.18333975848817
+Crude Oil,2024,Opening_Stock_Qty,2.427462413055317
+Crude Oil,2024,Closing_Stock_Qty,1.607979156806458
+Crude Oil,2024,Stock_Change_Qty,9.863534854734523
+Crude Oil,2024,Domestic_Wholesale_Price,0.7751295308344803
+Crude Oil,2024,Global_Benchmark_Price_USD,1.2955576364703534
+Crude Oil,2024,Exchange_Rate_USD_INR,7.12351438000807
+Crude Oil,2024,Sector_Investment_Capex,10.041406692443708
+Crude Oil,2025,Domestic_Production_Qty,0.11392854090369647
+Crude Oil,2025,Export_Qty,0.8445700999519465
+Crude Oil,2025,Export_Value_USD,0.08220583493913046
+Crude Oil,2025,Domestic_Consumption_Qty,64.66165602641328
+Crude Oil,2025,Opening_Stock_Qty,1.633542250659879
+Crude Oil,2025,Closing_Stock_Qty,0.9768392529234192
+Crude Oil,2025,Stock_Change_Qty,10.58413998588086
+Crude Oil,2025,Domestic_Wholesale_Price,0.8575923225720086
+Crude Oil,2025,Global_Benchmark_Price_USD,1.468559685359598
+Crude Oil,2025,Exchange_Rate_USD_INR,7.931039520717513
+Crude Oil,2025,Sector_Investment_Capex,10.845926479632528
+Cotton,2021,Domestic_Production_Qty,17.26181437833362
+Cotton,2021,Export_Qty,6.731249693204941
+Cotton,2021,Export_Value_USD,8.565659825936207
+Cotton,2021,Domestic_Consumption_Qty,0.5337472863038815
+Cotton,2021,Opening_Stock_Qty,6.845612781397513
+Cotton,2021,Closing_Stock_Qty,2.482014032381245
+Cotton,2021,Stock_Change_Qty,17.460790485336723
+Cotton,2021,Domestic_Wholesale_Price,11.798776178034807
+Cotton,2021,Global_Benchmark_Price_USD,5.896004750250314
+Cotton,2021,Exchange_Rate_USD_INR,6.556619830794822
+Cotton,2021,Sector_Investment_Capex,15.867710758013603
+Cotton,2022,Domestic_Production_Qty,19.620064974469777
+Cotton,2022,Export_Qty,7.25461198213086
+Cotton,2022,Export_Value_USD,8.796315226553588
+Cotton,2022,Domestic_Consumption_Qty,0.4183352313492019
+Cotton,2022,Opening_Stock_Qty,3.7793763823432
+Cotton,2022,Closing_Stock_Qty,1.287649212390739
+Cotton,2022,Stock_Change_Qty,19.904035015789997
+Cotton,2022,Domestic_Wholesale_Price,18.392389134308974
+Cotton,2022,Global_Benchmark_Price_USD,10.822068144487814
+Cotton,2022,Exchange_Rate_USD_INR,3.2792418295893127
+Cotton,2022,Sector_Investment_Capex,6.445912866574159
+Cotton,2023,Domestic_Production_Qty,19.526170869695374
+Cotton,2023,Export_Qty,10.491935572070856
+Cotton,2023,Export_Value_USD,12.19818275820765
+Cotton,2023,Domestic_Consumption_Qty,0.411207608271677
+Cotton,2023,Opening_Stock_Qty,3.5988810482131512
+Cotton,2023,Closing_Stock_Qty,1.4302516658978104
+Cotton,2023,Stock_Change_Qty,19.15628305953751
+Cotton,2023,Domestic_Wholesale_Price,13.679239619635508
+Cotton,2023,Global_Benchmark_Price_USD,8.131654477981892
+Cotton,2023,Exchange_Rate_USD_INR,3.716623783880155
+Cotton,2023,Sector_Investment_Capex,7.659569536595634
+Cotton,2024,Domestic_Production_Qty,15.062153215697771
+Cotton,2024,Export_Qty,6.16460302685552
+Cotton,2024,Export_Value_USD,8.117390362194618
+Cotton,2024,Domestic_Consumption_Qty,0.3891522183767044
+Cotton,2024,Opening_Stock_Qty,6.289602057210248
+Cotton,2024,Closing_Stock_Qty,2.254348263624378
+Cotton,2024,Stock_Change_Qty,14.465364455245847
+Cotton,2024,Domestic_Wholesale_Price,17.691046885616423
+Cotton,2024,Global_Benchmark_Price_USD,11.271387715139454
+Cotton,2024,Exchange_Rate_USD_INR,4.248632745367245
+Cotton,2024,Sector_Investment_Capex,14.046319054660431
+Cotton,2025,Domestic_Production_Qty,15.225781601178682
+Cotton,2025,Export_Qty,5.450779779639193
+Cotton,2025,Export_Value_USD,8.434112641926033
+Cotton,2025,Domestic_Consumption_Qty,0.40603602153512375
+Cotton,2025,Opening_Stock_Qty,7.038669286865555
+Cotton,2025,Closing_Stock_Qty,2.5487425689517984
+Cotton,2025,Stock_Change_Qty,15.25297526191977
+Cotton,2025,Domestic_Wholesale_Price,16.290080747328005
+Cotton,2025,Global_Benchmark_Price_USD,8.130702612756192
+Cotton,2025,Exchange_Rate_USD_INR,4.98448136192836
+Cotton,2025,Sector_Investment_Capex,16.23763811596142
+Electronic Circuits,2021,Domestic_Production_Qty,10.185459479149221
+Electronic Circuits,2021,Export_Qty,13.831595061132775
+Electronic Circuits,2021,Export_Value_USD,19.011425485556757
+Electronic Circuits,2021,Domestic_Consumption_Qty,42.29093649805094
+Electronic Circuits,2021,Opening_Stock_Qty,1.5058797835417022
+Electronic Circuits,2021,Closing_Stock_Qty,3.286784498919442
+Electronic Circuits,2021,Stock_Change_Qty,0.17847264544572605
+Electronic Circuits,2021,Domestic_Wholesale_Price,3.059213705931655
+Electronic Circuits,2021,Global_Benchmark_Price_USD,2.274749499116914
+Electronic Circuits,2021,Exchange_Rate_USD_INR,0.26261201389584826
+Electronic Circuits,2021,Sector_Investment_Capex,4.11287132922789
+Electronic Circuits,2022,Domestic_Production_Qty,9.485557879297952
+Electronic Circuits,2022,Export_Qty,15.175486694535135
+Electronic Circuits,2022,Export_Value_USD,21.7395451457547
+Electronic Circuits,2022,Domestic_Consumption_Qty,30.194408455516253
+Electronic Circuits,2022,Opening_Stock_Qty,2.686504507361818
+Electronic Circuits,2022,Closing_Stock_Qty,6.431535386517888
+Electronic Circuits,2022,Stock_Change_Qty,0.7123671631741263
+Electronic Circuits,2022,Domestic_Wholesale_Price,2.854186517446859
+Electronic Circuits,2022,Global_Benchmark_Price_USD,6.400387323496967
+Electronic Circuits,2022,Exchange_Rate_USD_INR,0.2904387176749206
+Electronic Circuits,2022,Sector_Investment_Capex,4.0295822091543085
+Electronic Circuits,2023,Domestic_Production_Qty,9.327571445149207
+Electronic Circuits,2023,Export_Qty,15.231625233687387
+Electronic Circuits,2023,Export_Value_USD,20.446669469789718
+Electronic Circuits,2023,Domestic_Consumption_Qty,33.3904750702792
+Electronic Circuits,2023,Opening_Stock_Qty,1.9854494782541618
+Electronic Circuits,2023,Closing_Stock_Qty,4.781669189710076
+Electronic Circuits,2023,Stock_Change_Qty,0.6142046106691046
+Electronic Circuits,2023,Domestic_Wholesale_Price,3.1543520136604464
+Electronic Circuits,2023,Global_Benchmark_Price_USD,6.360563707178504
+Electronic Circuits,2023,Exchange_Rate_USD_INR,0.3394069227071411
+Electronic Circuits,2023,Sector_Investment_Capex,4.368012858841423
+Electronic Circuits,2024,Domestic_Production_Qty,9.571289945704912
+Electronic Circuits,2024,Export_Qty,13.484825878948556
+Electronic Circuits,2024,Export_Value_USD,18.191866194839594
+Electronic Circuits,2024,Domestic_Consumption_Qty,40.59351676673965
+Electronic Circuits,2024,Opening_Stock_Qty,2.737841165550449
+Electronic Circuits,2024,Closing_Stock_Qty,6.091569564718278
+Electronic Circuits,2024,Stock_Change_Qty,0.2984584483410617
+Electronic Circuits,2024,Domestic_Wholesale_Price,2.7361657886678086
+Electronic Circuits,2024,Global_Benchmark_Price_USD,2.1955159490753466
+Electronic Circuits,2024,Exchange_Rate_USD_INR,0.176404923331244
+Electronic Circuits,2024,Sector_Investment_Capex,3.9225453740534078
+Electronic Circuits,2025,Domestic_Production_Qty,9.538813075718885
+Electronic Circuits,2025,Export_Qty,13.369810996274442
+Electronic Circuits,2025,Export_Value_USD,18.91508620406577
+Electronic Circuits,2025,Domestic_Consumption_Qty,40.03070299570585
+Electronic Circuits,2025,Opening_Stock_Qty,2.856496036071959
+Electronic Circuits,2025,Closing_Stock_Qty,6.302941768362685
+Electronic Circuits,2025,Stock_Change_Qty,0.26113927282383886
+Electronic Circuits,2025,Domestic_Wholesale_Price,2.9091206591564127
+Electronic Circuits,2025,Global_Benchmark_Price_USD,1.7144237718906146
+Electronic Circuits,2025,Exchange_Rate_USD_INR,0.1835765515437484
+Electronic Circuits,2025,Sector_Investment_Capex,3.9178886683628344
+Rice,2021,Domestic_Production_Qty,18.54632389353824
+Rice,2021,Import_Qty,14.419812853288663
+Rice,2021,Import_Value_USD,12.311712981555145
+Rice,2021,Domestic_Consumption_Qty,0.9946861402324711
+Rice,2021,Opening_Stock_Qty,0.8267634567174202
+Rice,2021,Closing_Stock_Qty,2.6302531613277034
+Rice,2021,Stock_Change_Qty,18.65935266851471
+Rice,2021,Domestic_Wholesale_Price,3.013939627205351
+Rice,2021,Global_Benchmark_Price_USD,16.724270422406704
+Rice,2021,Exchange_Rate_USD_INR,3.41395006544166
+Rice,2021,Sector_Investment_Capex,8.458934729758214
+Rice,2022,Domestic_Production_Qty,20.238342799597174
+Rice,2022,Import_Qty,18.367295851280193
+Rice,2022,Import_Value_USD,17.57756171454789
+Rice,2022,Domestic_Consumption_Qty,0.9654154412937423
+Rice,2022,Opening_Stock_Qty,0.9231462714625098
+Rice,2022,Closing_Stock_Qty,2.8548551013373884
+Rice,2022,Stock_Change_Qty,20.372762914852725
+Rice,2022,Domestic_Wholesale_Price,2.466829582682597
+Rice,2022,Global_Benchmark_Price_USD,10.290384326185439
+Rice,2022,Exchange_Rate_USD_INR,1.8225733493550955
+Rice,2022,Sector_Investment_Capex,4.120832647390579
+Rice,2023,Domestic_Production_Qty,20.436732622409547
+Rice,2023,Import_Qty,19.884250926766722
+Rice,2023,Import_Value_USD,19.103709317393875
+Rice,2023,Domestic_Consumption_Qty,0.7993570717151292
+Rice,2023,Opening_Stock_Qty,0.8547923933133722
+Rice,2023,Closing_Stock_Qty,2.6981335599906977
+Rice,2023,Stock_Change_Qty,20.349781340111743
+Rice,2023,Domestic_Wholesale_Price,2.470084351588299
+Rice,2023,Global_Benchmark_Price_USD,7.546488080938678
+Rice,2023,Exchange_Rate_USD_INR,2.025172565522629
+Rice,2023,Sector_Investment_Capex,3.831497770234448
+Rice,2024,Domestic_Production_Qty,18.50568184348488
+Rice,2024,Import_Qty,13.259899254287363
+Rice,2024,Import_Value_USD,16.388687392321984
+Rice,2024,Domestic_Consumption_Qty,0.8160823107526144
+Rice,2024,Opening_Stock_Qty,0.824292712868413
+Rice,2024,Closing_Stock_Qty,2.5046310162523495
+Rice,2024,Stock_Change_Qty,18.224019974859324
+Rice,2024,Domestic_Wholesale_Price,2.9224594209589108
+Rice,2024,Global_Benchmark_Price_USD,16.568491242409536
+Rice,2024,Exchange_Rate_USD_INR,2.280329400979383
+Rice,2024,Sector_Investment_Capex,7.705425430812228
+Rice,2025,Domestic_Production_Qty,15.878289808098419
+Rice,2025,Import_Qty,12.56127219422973
+Rice,2025,Import_Value_USD,15.509020300582296
+Rice,2025,Domestic_Consumption_Qty,0.6073965356512886
+Rice,2025,Opening_Stock_Qty,0.9582979315795555
+Rice,2025,Closing_Stock_Qty,3.1835609793008244
+Rice,2025,Stock_Change_Qty,15.960084384087622
+Rice,2025,Domestic_Wholesale_Price,4.125775328292548
+Rice,2025,Global_Benchmark_Price_USD,18.99787529247751
+Rice,2025,Exchange_Rate_USD_INR,2.8040739030435127
+Rice,2025,Sector_Investment_Capex,9.414353342644821
+Packed Medicine,2021,Domestic_Production_Qty,24.950235220299685
+Packed Medicine,2021,Import_Qty,1.7426733396926308
+Packed Medicine,2021,Import_Value_USD,4.589918878162063
+Packed Medicine,2021,Domestic_Consumption_Qty,9.033258709549663
+Packed Medicine,2021,Opening_Stock_Qty,19.605300453983922
+Packed Medicine,2021,Closing_Stock_Qty,18.66455201656907
+Packed Medicine,2021,Stock_Change_Qty,8.392849919858246
+Packed Medicine,2021,Domestic_Wholesale_Price,5.994749832953096
+Packed Medicine,2021,Global_Benchmark_Price_USD,4.020381446589757
+Packed Medicine,2021,Exchange_Rate_USD_INR,2.8712256606305795
+Packed Medicine,2021,Sector_Investment_Capex,0.13485452169691878
+Packed Medicine,2022,Domestic_Production_Qty,16.0076512277148
+Packed Medicine,2022,Import_Qty,1.7285663582171535
+Packed Medicine,2022,Import_Value_USD,3.9727884858837976
+Packed Medicine,2022,Domestic_Consumption_Qty,9.500597180563632
+Packed Medicine,2022,Opening_Stock_Qty,27.40936283169988
+Packed Medicine,2022,Closing_Stock_Qty,23.7965521808491
+Packed Medicine,2022,Stock_Change_Qty,9.898337406024602
+Packed Medicine,2022,Domestic_Wholesale_Price,3.118522808042191
+Packed Medicine,2022,Global_Benchmark_Price_USD,2.759237978538724
+Packed Medicine,2022,Exchange_Rate_USD_INR,1.7477948893686441
+Packed Medicine,2022,Sector_Investment_Capex,0.06058865307992054
+Packed Medicine,2023,Domestic_Production_Qty,20.019882176498434
+Packed Medicine,2023,Import_Qty,2.804863942359866
+Packed Medicine,2023,Import_Value_USD,6.781962774102237
+Packed Medicine,2023,Domestic_Consumption_Qty,11.120518838912751
+Packed Medicine,2023,Opening_Stock_Qty,22.864254345594347
+Packed Medicine,2023,Closing_Stock_Qty,20.041891356719873
+Packed Medicine,2023,Stock_Change_Qty,9.062854145959538
+Packed Medicine,2023,Domestic_Wholesale_Price,3.0806112896989606
+Packed Medicine,2023,Global_Benchmark_Price_USD,2.1160102908042804
+Packed Medicine,2023,Exchange_Rate_USD_INR,2.0376487808169412
+Packed Medicine,2023,Sector_Investment_Capex,0.06950205851411481
+Packed Medicine,2024,Domestic_Production_Qty,21.559410348367486
+Packed Medicine,2024,Import_Qty,1.4707466079089242
+Packed Medicine,2024,Import_Value_USD,4.825491285157028
+Packed Medicine,2024,Domestic_Consumption_Qty,8.307780690380024
+Packed Medicine,2024,Opening_Stock_Qty,23.51768537286057
+Packed Medicine,2024,Closing_Stock_Qty,20.935028825005052
+Packed Medicine,2024,Stock_Change_Qty,7.977760837922178
+Packed Medicine,2024,Domestic_Wholesale_Price,5.714344238293564
+Packed Medicine,2024,Global_Benchmark_Price_USD,3.7048658490261572
+Packed Medicine,2024,Exchange_Rate_USD_INR,1.8628564883559777
+Packed Medicine,2024,Sector_Investment_Capex,0.12402945670979768
+Packed Medicine,2025,Domestic_Production_Qty,25.11286402541606
+Packed Medicine,2025,Import_Qty,1.2017486692711545
+Packed Medicine,2025,Import_Value_USD,4.019267877519074
+Packed Medicine,2025,Domestic_Consumption_Qty,11.692894797916423
+Packed Medicine,2025,Opening_Stock_Qty,22.14080732050404
+Packed Medicine,2025,Closing_Stock_Qty,19.537335657236408
+Packed Medicine,2025,Stock_Change_Qty,4.631044673519199
+Packed Medicine,2025,Domestic_Wholesale_Price,5.7244600517675135
+Packed Medicine,2025,Global_Benchmark_Price_USD,3.8595833764219516
+Packed Medicine,2025,Exchange_Rate_USD_INR,1.958009927577882
+Packed Medicine,2025,Sector_Investment_Capex,0.12198362283997284
+Spices,2021,Domestic_Production_Qty,24.871528348155945
+Spices,2021,Import_Qty,11.02172629447457
+Spices,2021,Import_Value_USD,5.783001153773721
+Spices,2021,Domestic_Consumption_Qty,0.8730952142823764
+Spices,2021,Opening_Stock_Qty,5.876010845991673
+Spices,2021,Closing_Stock_Qty,4.555312266759646
+Spices,2021,Stock_Change_Qty,23.418254137115255
+Spices,2021,Domestic_Wholesale_Price,5.1340912929812905
+Spices,2021,Global_Benchmark_Price_USD,3.2727846274216077
+Spices,2021,Exchange_Rate_USD_INR,8.065302068148625
+Spices,2021,Sector_Investment_Capex,7.128893750878354
+Spices,2022,Domestic_Production_Qty,27.3356254168025
+Spices,2022,Import_Qty,9.329279304788027
+Spices,2022,Import_Value_USD,5.28730880493999
+Spices,2022,Domestic_Consumption_Qty,1.0607554225616536
+Spices,2022,Opening_Stock_Qty,7.70617331728188
+Spices,2022,Closing_Stock_Qty,6.082502868647684
+Spices,2022,Stock_Change_Qty,26.926367907524263
+Spices,2022,Domestic_Wholesale_Price,5.920840621581403
+Spices,2022,Global_Benchmark_Price_USD,2.097551259332112
+Spices,2022,Exchange_Rate_USD_INR,4.600570433709005
+Spices,2022,Sector_Investment_Capex,3.6530246428120936
+Spices,2023,Domestic_Production_Qty,25.340235829180397
+Spices,2023,Import_Qty,11.03271223293431
+Spices,2023,Import_Value_USD,8.790504204295985
+Spices,2023,Domestic_Consumption_Qty,0.9872143972736742
+Spices,2023,Opening_Stock_Qty,6.9017834891653544
+Spices,2023,Closing_Stock_Qty,5.433892028836142
+Spices,2023,Stock_Change_Qty,24.58567284794127
+Spices,2023,Domestic_Wholesale_Price,5.422346241963537
+Spices,2023,Global_Benchmark_Price_USD,2.24231593608352
+Spices,2023,Exchange_Rate_USD_INR,5.360988697699803
+Spices,2023,Sector_Investment_Capex,3.9023340946054232
+Spices,2024,Domestic_Production_Qty,22.479374800893762
+Spices,2024,Import_Qty,8.720745271198393
+Spices,2024,Import_Value_USD,5.88556023191209
+Spices,2024,Domestic_Consumption_Qty,0.7967175900999631
+Spices,2024,Opening_Stock_Qty,6.893639178429985
+Spices,2024,Closing_Stock_Qty,5.774247369968501
+Spices,2024,Stock_Change_Qty,24.3690585262219
+Spices,2024,Domestic_Wholesale_Price,8.334411197072294
+Spices,2024,Global_Benchmark_Price_USD,3.65072332977609
+Spices,2024,Exchange_Rate_USD_INR,5.771354322979689
+Spices,2024,Sector_Investment_Capex,7.324168181430113
+Spices,2025,Domestic_Production_Qty,19.29713534270975
+Spices,2025,Import_Qty,5.936951815192362
+Spices,2025,Import_Value_USD,7.238320212518199
+Spices,2025,Domestic_Consumption_Qty,0.8738976908502666
+Spices,2025,Opening_Stock_Qty,11.181548053500817
+Spices,2025,Closing_Stock_Qty,9.228441405125153
+Spices,2025,Stock_Change_Qty,20.277000627420623
+Spices,2025,Domestic_Wholesale_Price,7.197041367781082
+Spices,2025,Global_Benchmark_Price_USD,3.8733251968336475
+Spices,2025,Exchange_Rate_USD_INR,6.709301335083338
+Spices,2025,Sector_Investment_Capex,8.187036952969903

@@ -1,0 +1,8 @@
+{
+  "sector_month_observations": 360,
+  "surges": 26,
+  "drops": 18,
+  "regular": 316,
+  "outliers_gt10": 1,
+  "outlier_rate_pct": 0.2777777777777778
+}

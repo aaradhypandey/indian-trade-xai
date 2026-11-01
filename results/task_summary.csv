@@ -1,0 +1,7 @@
+Sector,Target,Role,Surges,Drops,Regular,Mean_LIME_PSO_Difference_pct_points,Outlier_rate_pct,Top_PSO_feature,Top_PSO_weight_pct
+Crude Oil,Import_Qty,International demand (imports),5,3,52,3.904948874929312,1.6666666666666667,Domestic_Consumption_Qty,62.484893160389746
+Cotton,Import_Qty,International demand (imports),4,3,53,1.6065792631131661,0.0,Domestic_Production_Qty,16.273579506693547
+Electronic Circuits,Import_Qty,International demand (imports),3,3,54,1.653511237885776,0.0,Domestic_Consumption_Qty,40.30597390436605
+Rice,Export_Qty,International supply (exports),5,3,52,1.9562670877357546,0.0,Domestic_Production_Qty,18.97128021396548
+Packed Medicine,Export_Qty,International supply (exports),4,1,55,1.757354848841212,0.0,Opening_Stock_Qty,21.949171857521932
+Spices,Export_Qty,International supply (exports),5,5,50,2.0884027352149817,0.0,Domestic_Production_Qty,24.59887031415084

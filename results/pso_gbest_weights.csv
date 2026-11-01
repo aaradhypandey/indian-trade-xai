@@ -1,0 +1,67 @@
+Sector,Target,Feature,PSO_gbest_normalized_pct,PSO_raw_weight
+Crude Oil,Import_Qty,Domestic_Production_Qty,0.17610347151373731,-0.004266978123147741
+Crude Oil,Import_Qty,Export_Qty,1.3792226135854864,-0.033418493505738986
+Crude Oil,Import_Qty,Export_Value_USD,0.14051122557527448,0.003404579821355786
+Crude Oil,Import_Qty,Domestic_Consumption_Qty,62.484893160389746,1.5140057708732253
+Crude Oil,Import_Qty,Opening_Stock_Qty,1.9761111501700555,-0.04788107227077684
+Crude Oil,Import_Qty,Closing_Stock_Qty,1.251032869383361,0.030312462548934677
+Crude Oil,Import_Qty,Stock_Change_Qty,12.453163647606916,0.30173951933805204
+Crude Oil,Import_Qty,Domestic_Wholesale_Price,1.737719876506495,0.042104863881878674
+Crude Oil,Import_Qty,Global_Benchmark_Price_USD,2.945585440210369,-0.07137138481826977
+Crude Oil,Import_Qty,Exchange_Rate_USD_INR,7.19107241148631,0.17423931736285947
+Crude Oil,Import_Qty,Sector_Investment_Capex,8.264584133530972,-0.20025045157579238
+Cotton,Import_Qty,Domestic_Production_Qty,16.273579506693547,-2.0
+Cotton,Import_Qty,Export_Qty,7.838515299111923,0.9633424896947638
+Cotton,Import_Qty,Export_Value_USD,10.562297926191025,-1.2980915381089462
+Cotton,Import_Qty,Domestic_Consumption_Qty,0.42532760156435595,-0.05227216315739422
+Cotton,Import_Qty,Opening_Stock_Qty,5.2291172536735,-0.6426511452532854
+Cotton,Import_Qty,Closing_Stock_Qty,1.8994748178613494,-0.23344277970068839
+Cotton,Import_Qty,Stock_Change_Qty,16.273579506693547,2.0
+Cotton,Import_Qty,Domestic_Wholesale_Price,16.27355016608899,1.9999963940810268
+Cotton,Import_Qty,Global_Benchmark_Price_USD,9.774477964984293,-1.2012695745227921
+Cotton,Import_Qty,Exchange_Rate_USD_INR,4.158284917893776,-0.5110473594556645
+Cotton,Import_Qty,Sector_Investment_Capex,11.29179503923555,1.3877457058038254
+Electronic Circuits,Import_Qty,Domestic_Production_Qty,9.537608183169269,-0.3472582955226702
+Electronic Circuits,Import_Qty,Export_Qty,13.478561403876398,-0.4907459154662465
+Electronic Circuits,Import_Qty,Export_Value_USD,18.520192887384766,0.6743085364078406
+Electronic Circuits,Import_Qty,Domestic_Consumption_Qty,40.30597390436605,1.4675150759611546
+Electronic Circuits,Import_Qty,Opening_Stock_Qty,2.3397825526136793,-0.08519000628984935
+Electronic Circuits,Import_Qty,Closing_Stock_Qty,5.179952868377321,0.18859881528103986
+Electronic Circuits,Import_Qty,Stock_Change_Qty,0.3703555291812023,0.013484411115547119
+Electronic Circuits,Import_Qty,Domestic_Wholesale_Price,2.8843741347610115,0.10501824214736764
+Electronic Circuits,Import_Qty,Global_Benchmark_Price_USD,3.270082855421281,-0.11906165327648865
+Electronic Circuits,Import_Qty,Exchange_Rate_USD_INR,0.22253209975752786,0.008102253329849174
+Electronic Circuits,Import_Qty,Sector_Investment_Capex,3.890583581064027,-0.1416536931484474
+Rice,Export_Qty,Domestic_Production_Qty,18.97128021396548,2.0
+Rice,Export_Qty,Import_Qty,16.47690329025109,-1.7370365209325005
+Rice,Export_Qty,Import_Value_USD,17.002434893471474,1.7924393822358213
+Rice,Export_Qty,Domestic_Consumption_Qty,0.9022737620767398,0.09511996574828323
+Rice,Export_Qty,Opening_Stock_Qty,0.8967004722606534,-0.09453241554047134
+Rice,Export_Qty,Closing_Stock_Qty,2.822338354262308,-0.29753799663816866
+Rice,Export_Qty,Stock_Change_Qty,18.97128021396548,-2.0
+Rice,Export_Qty,Domestic_Wholesale_Price,2.5299671747360626,0.266715492702876
+Rice,Export_Qty,Global_Benchmark_Price_USD,12.91079532896422,-1.3610884646003059
+Rice,Export_Qty,Exchange_Rate_USD_INR,2.269455071719725,0.2392516526163683
+Rice,Export_Qty,Sector_Investment_Capex,6.246571224317291,0.6585292245822137
+Packed Medicine,Export_Qty,Domestic_Production_Qty,21.070505011103187,1.9199362188129545
+Packed Medicine,Export_Qty,Import_Qty,1.9765981657504343,-0.1801068558377576
+Packed Medicine,Export_Qty,Import_Value_USD,5.4664181760702535,0.4980978974108241
+Packed Medicine,Export_Qty,Domestic_Consumption_Qty,10.595779873866167,-0.9654833396582128
+Packed Medicine,Export_Qty,Opening_Stock_Qty,21.949171857521932,-2.0
+Packed Medicine,Export_Qty,Closing_Stock_Qty,19.643476901065334,1.7899059726331823
+Packed Medicine,Export_Qty,Stock_Change_Qty,8.649230467181997,-0.7881145150556488
+Packed Medicine,Export_Qty,Domestic_Wholesale_Price,4.987729389442202,0.45447996141439095
+Packed Medicine,Export_Qty,Global_Benchmark_Price_USD,3.4435030786207674,-0.3137706607769519
+Packed Medicine,Export_Qty,Exchange_Rate_USD_INR,2.1064904263864475,-0.19194258809036185
+Packed Medicine,Export_Qty,Sector_Investment_Capex,0.11109665298032516,0.010123083795733512
+Spices,Export_Qty,Domestic_Production_Qty,24.59887031415084,2.0
+Spices,Export_Qty,Import_Qty,9.663631443395648,0.7856971738931043
+Spices,Export_Qty,Import_Value_USD,7.349019084236801,-0.5975086652665651
+Spices,Export_Qty,Domestic_Consumption_Qty,0.9534835749300289,-0.07752254983689427
+Spices,Export_Qty,Opening_Stock_Qty,7.02940274722134,0.5715224038705208
+Spices,Export_Qty,Closing_Stock_Qty,5.702672060387463,-0.4636531667966005
+Spices,Export_Qty,Stock_Change_Qty,24.59887031415084,-2.0
+Spices,Export_Qty,Domestic_Wholesale_Price,5.886975673411967,0.4786378885070509
+Spices,Export_Qty,Global_Benchmark_Price_USD,2.906148070914669,-0.23628305152231868
+Spices,Export_Qty,Exchange_Rate_USD_INR,5.628390618927746,0.4576137478711724
+Spices,Export_Qty,Sector_Investment_Capex,5.682536098260345,0.46201602152367033
